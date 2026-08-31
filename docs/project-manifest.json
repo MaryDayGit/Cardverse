@@ -1,0 +1,59 @@
+{
+  "project": "CARDVERSE",
+  "version": "0.2",
+  "status": "planning",
+  "platform": [
+    "browser",
+    "itch.io"
+  ],
+  "mvp_universes": [
+    "games",
+    "anime"
+  ],
+  "providers": {
+    "games_primary": "RAWG",
+    "anime_primary": "Jikan"
+  },
+  "pvp": false,
+  "monetization_mvp": "optional_donations_only",
+  "account_strategy": "offline_first_then_cloud_sync",
+  "core_loop": [
+    "click_or_idle",
+    "coins",
+    "packs",
+    "cards",
+    "sets",
+    "idle_income"
+  ],
+  "documents": [
+    "README.md",
+    "01_PROJECT_OVERVIEW.md",
+    "02_GAME_DESIGN.md",
+    "03_FIRST_SESSION.md",
+    "04_CORE_GAMEPLAY.md",
+    "05_CARD_SYSTEM.md",
+    "06_RARITY_SYSTEM.md",
+    "07_COLLECTION_SYSTEM.md",
+    "08_PACK_SYSTEM.md",
+    "09_ECONOMY.md",
+    "10_PROGRESSION.md",
+    "11_SEASONS_AND_EVENTS.md",
+    "12_CONTENT_MODEL.md",
+    "13_API_INTEGRATION.md",
+    "14_DATA_ARCHITECTURE.md",
+    "15_DATABASE_SCHEMA.md",
+    "16_BACKEND_ARCHITECTURE.md",
+    "17_FRONTEND_ARCHITECTURE.md",
+    "18_IMAGE_AND_LICENSE_POLICY.md",
+    "19_SECURITY.md",
+    "20_ADMIN_PANEL.md",
+    "21_ANALYTICS.md",
+    "22_ROADMAP.md",
+    "23_MVP_SCOPE.md",
+    "24_ANTIGRAVITY_INSTRUCTIONS.md",
+    "25_IDLE_ECONOMY.md",
+    "26_GAMEPLAY_FLOW.md",
+    "27_CREDITS_AND_SOURCES.md",
+    "DECISIONS.md"
+  ]
+}
